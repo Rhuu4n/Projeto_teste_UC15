@@ -3,7 +3,6 @@ import Cabecalho from "./components/cabecalho";
 import Conteudo from "./components/conteudo";
 import Ls_produtos from "./components/Lista_de_produtos";
 import Rodape from "./components/rodape";
-import "./globals.css"
 
 export default function Home() {
   return (
