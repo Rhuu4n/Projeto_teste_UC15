@@ -5,6 +5,7 @@ import Ls_produtos from "./components/Lista_de_produtos";
 import Rodape from "./components/rodape";
 
 export default function Home() {
+
   return (
     <div>
 
